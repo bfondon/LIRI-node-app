@@ -8,3 +8,7 @@ required information. I wouldn't have been able to get that part if it weren't f
 
 ## Technologies Used
 The program was written entirely with Javascript, using Moment and Axios NPM packages to help with time format changes and API calls.
+
+## Screenshots
+
+![Screenshot1](screenshot1)
