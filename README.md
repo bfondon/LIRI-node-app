@@ -11,4 +11,4 @@ The program was written entirely with Javascript, using Moment and Axios NPM pac
 
 ## Screenshots
 
-![Screenshot1](screenshot1)
+![Screenshot1](screenshot1.png)
